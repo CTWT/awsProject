@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.awsProject.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-02T18:28:34" hostname="sin-incheol-ui-MacBookAir.local" time="0.034">
+  <properties/>
+  <testcase name="롬복_기능_테스트" classname="com.awsProject.springboot.web.dto.HelloResponseDtoTest" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
