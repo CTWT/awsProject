@@ -1,6 +1,5 @@
 package com.awsProject.springboot.domain.posts;
 
-import com.mysql.cj.protocol.ColumnDefinition;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
